@@ -39,3 +39,16 @@
 .vote-button{
   cursor: pointer;
 }
+.highest-vote{
+  background-color: green;
+  color: white;
+}
+
+.lowest-vote{
+  background-color: red;
+  color: white;
+}
+.same-vote{
+  background-color: yellow;
+  color: black;
+}
